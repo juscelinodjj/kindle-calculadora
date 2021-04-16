@@ -18,7 +18,6 @@ principal do Kindle
 
 #### Importante
 - Aparelho utilizado como base para o desenvolvimento,
-**Kindle 10a. geração com iluminação embutida**
+**Kindle 10ª geração**
 
-#### Screenshot
-<img src="https://github.com/juscelinodjj/kindle-calculadora/blob/main/screenshot/screenshot.png" width="320" height="auto" title="screenshot">
+<img src="https://github.com/juscelinodjj/kindle-calculadora/blob/main/image/kindle.jpeg" width="320" height="auto" title="kindle">
